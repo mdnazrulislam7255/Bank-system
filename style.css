@@ -1,0 +1,27 @@
+body{
+    padding: 80px;
+}
+.submit-area{
+    margin-top: 60px;
+    border-radius: 12px;
+    box-shadow: 5px 5px 10px gainsboro;
+    padding: 45px;
+}
+#transaction-area{
+    display: none;
+}
+.status{
+    margin: 0 22px;
+    color: gainsboro;
+    border-radius: 10px;
+    padding: 10px;
+}
+.deposit{
+    background-color: #5F4FC8;
+}
+.withdraw{
+    background-color: #F19671;
+}
+.balance{
+    background-color: #F09B02;
+}
